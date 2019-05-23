@@ -1,0 +1,2 @@
+export const FACEBOOK_LOGIN = "FACEBOOK_LOGIN";
+export const FACEBOOK_LOGOUT = "FACEBOOK_LOGOUT";
