@@ -11,7 +11,7 @@
     "adm-zip": "^0.4.13",
     "firebase": "^5.7.0",
     "native-base": "^2.8.1",
-    "plist": "^3.0.1",
+    "plist": "^3.0.4",
     "react": "16.6.1",
     "react-native": "0.57.7",
     "react-native-fbsdk": "^0.8.0",
